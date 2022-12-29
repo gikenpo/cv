@@ -1,0 +1,226 @@
+body{
+    color: #40514E;
+    margin: 0px;
+}
+
+.first{
+    background-color: #EAF6F6;
+    
+}
+h1{
+  margin-top: 0; 
+    margin-right: 0px;
+ text-align: center;
+padding-top: 90px;
+color: #66BFBF;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Sacramento', cursive;
+font-size: 4.5em;
+ 
+}
+h2
+{
+
+    margin-top: 0px;
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+ 
+}
+.firstcloud{
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+}
+.span{
+    text-decoration: underline;
+}
+.secondcloud{
+    position: absolute;
+    top: 330px;
+    left: 350px;
+    bottom: 20px;   
+}
+.mountain{
+    position: relative;
+    left:480px;
+    padding-bottom: 0em;
+    
+}
+.imggirl{
+    border-radius: 20px;
+    position: relative;
+    top: 4.5em;
+    left: 700px;
+}
+.jack{
+    position: absolute;
+    left: 738px;
+  top: 900px;
+}
+.para{
+   color: #40514E;
+   width: 25%;
+   
+   position: absolute;
+    left: 615px;
+  top: 950px;
+  text-align: center;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #879494;
+   border-width: 5px;
+    width: 70px;
+    margin: auto;
+     
+   position: absolute;
+   left: 733px;
+ top: 1100px;
+}
+.hop{
+    margin-top: 0px;
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+    position: absolute;
+    left: 714px;
+  top: 1220px;
+}
+
+h3{
+    margin-top: 0px;
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;  
+    position: absolute;
+    left: 710px;
+  top: 1320px;
+}
+.par{
+    color: #40514E;
+    width: 25%;
+    
+    position: absolute;
+     left: 710px;
+   top: 1350px;
+   text-align: left;
+}
+.html_img{
+    position: absolute;
+     left: 550px;
+   top: 1320px; 
+   border-radius: 25px;
+}
+.hot{
+    margin-top: 0px;
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;  
+    position: absolute;
+    left: 550px;
+  top: 1520px;
+}
+.par2{
+    color: #40514E;
+    width: 25%;  
+    position: absolute;
+     left: 550px;
+   top: 1540px;
+   text-align: left;
+}
+.img_chilli{
+    position: absolute;
+     left: 990px;
+   top: 1520px; 
+   border-radius: 25px;
+}
+.hori{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #879494;
+   border-width: 5px;
+    width: 70px;
+    margin: auto;
+     
+   position: absolute;
+   left: 733px;
+ top: 1700px;
+}
+.get{
+ 
+    margin-top: 0px;
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+    position: absolute;   
+    top: 1810px;
+    left: 693px;
+}
+.hot2{
+    margin-top: 0px;
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;  
+    position: absolute;
+    left: 602px;
+  top: 1890px;   
+}
+.par3{
+    color: #40514E;
+    width: 25%;  
+    position: absolute;
+     left: 579px;
+   top: 1920px;
+   text-align: center;
+}
+.button{
+    width: 10em;
+    height: 5ex;
+    background-color:#3cb0fd;
+    border-radius: 10px;
+    color:white;
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    left: 690px;
+  top: 2009px;
+}
+.button:hover{
+    color: #3498db;
+}
+.second{
+    background-color: #66BFBF;
+    position: relative;
+    top: 1340px;}
+
+ .firsta{
+    color: #11999E;
+    font-family: 'Merriweather', serif; 
+    position: absolute;
+    left: 625px;
+    bottom:100px;
+
+ } 
+ .seconda{
+    color: #11999E;
+    font-family: 'Merriweather', serif; 
+    position: absolute;
+    left: 730px;
+    bottom:100px;
+ } 
+ .thirda{
+    color: #11999E;
+    font-family: 'Merriweather', serif; 
+    position: absolute;
+    left: 825px;
+    bottom:100px;
+ } 
+ .small{
+    color: #EAF6F6;
+    position: absolute;
+    left: 650px;
+    bottom:50px;
+ }
